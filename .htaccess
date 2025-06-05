@@ -1,0 +1,10 @@
+# .htaccess
+# Melindungi file database_credentials.php dari akses langsung via web
+<Files database_credentials.php>
+    Order allow,deny
+    Deny from all
+</Files>
+
+# Atur PHP Error Reporting (Opsional, tapi membantu debugging)
+# php_value display_errors On
+# php_value error_reporting E_ALL

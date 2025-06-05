@@ -1,0 +1,217 @@
+[03-Jun-2025 23:39:32 Asia/Jakarta] Dashboard Query Error (SA/Admin): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[03-Jun-2025 23:39:35 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE' || SQL State: 42S22 || Input Username: superadmin@reaktor.system
+[03-Jun-2025 23:39:35 Asia/Jakarta] Dashboard Query Error (SA/Admin): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[03-Jun-2025 23:39:44 Asia/Jakarta] Dashboard Query Error (SA/Admin): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[03-Jun-2025 23:46:32 Asia/Jakarta] Dashboard Query Error (SA/Admin): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[03-Jun-2025 23:46:48 Asia/Jakarta] Dashboard Query Error (SA/Admin): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[03-Jun-2025 23:51:18 Asia/Jakarta] Dashboard Query Error (SA/Admin): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[03-Jun-2025 23:51:26 Asia/Jakarta] Error Daftar Wasit: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'w.nomor_lisensi' in 'SELECT'
+[03-Jun-2025 23:51:29 Asia/Jakarta] Error Daftar Wasit: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'w.nomor_lisensi' in 'SELECT'
+[03-Jun-2025 23:52:46 Asia/Jakarta] Dashboard Query Error (SA/Admin): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[03-Jun-2025 23:54:10 Asia/Jakarta] Dashboard Query Error (SA/Admin): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[03-Jun-2025 23:55:51 Asia/Jakarta] Dashboard Query Error (SA/Admin): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:05:20 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE' || SQL State: 42S22 || Input Username: superadmin@reaktor.system
+[04-Jun-2025 00:05:32 Asia/Jakarta] Dashboard Query Error (SA/Admin): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:06:34 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE' || SQL State: 42S22 || Input Username: superadmin@reaktor.system
+[04-Jun-2025 00:06:34 Asia/Jakarta] Dashboard Query Error (SA/Admin): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:06:48 Asia/Jakarta] Dashboard Query Error (SA/Admin): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:07:30 Asia/Jakarta] Dashboard Query Error (SA/Admin): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:07:31 Asia/Jakarta] Dashboard Query Error (SA/Admin): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:08:17 Asia/Jakarta] Dashboard Admin/SuperAdmin Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:15:50 Asia/Jakarta] Dashboard Admin/SuperAdmin Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:18:20 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:18:31 Asia/Jakarta] Dashboard Admin/SuperAdmin Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:26:17 Asia/Jakarta] Dashboard Admin/SuperAdmin Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:26:44 Asia/Jakarta] Error Daftar Wasit: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'w.nomor_lisensi' in 'SELECT'
+[04-Jun-2025 00:26:47 Asia/Jakarta] Error Daftar Wasit: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'w.nomor_lisensi' in 'SELECT'
+[04-Jun-2025 00:27:08 Asia/Jakarta] Dashboard Admin/SuperAdmin Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:30:18 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:30:25 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:30:27 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:30:28 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:30:28 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:30:28 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:30:56 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:36:38 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:41:50 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:44:06 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:45:00 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:45:03 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:45:03 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:45:04 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:45:07 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:45:09 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:45:16 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_approval' in 'WHERE'
+[04-Jun-2025 00:58:21 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 00:58:24 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 00:58:25 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 00:58:26 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 00:58:26 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 00:58:26 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 00:58:26 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 00:58:27 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 00:58:34 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 00:58:35 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 00:58:36 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 00:58:36 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 00:58:36 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 00:59:14 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 02:15:45 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE' || SQL State: 42S22 || Input Username: superadmin@reaktor.system
+[04-Jun-2025 02:17:05 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE' || SQL State: 42S22 || Input Username: superadmin@reaktor.system
+[04-Jun-2025 02:17:05 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 02:17:25 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 02:17:27 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 02:20:52 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 02:20:54 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 02:21:00 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 02:21:02 Asia/Jakarta] Error Daftar Prestasi: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u258794476_dbreaktorsys.prestasi' doesn't exist
+[04-Jun-2025 02:21:05 Asia/Jakarta] PDOError Daftar Lisensi Pelatih: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'lp.id_cabor' in 'ON'
+[04-Jun-2025 02:21:07 Asia/Jakarta] Error Daftar Wasit: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'w.nomor_lisensi' in 'SELECT'
+[04-Jun-2025 02:21:09 Asia/Jakarta] Error Daftar Wasit: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'w.nomor_lisensi' in 'SELECT'
+[04-Jun-2025 02:23:34 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE' || SQL State: 42S22 || Input Username: superadmin@reaktor.system
+[04-Jun-2025 02:23:34 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 02:51:21 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 02:53:43 Asia/Jakarta] Dashboard Admin/SA Data Fetch Error (Full): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE'
+[04-Jun-2025 03:05:15 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 03:05:17 Asia/Jakarta] Error Daftar Prestasi: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u258794476_dbreaktorsys.prestasi' doesn't exist
+[04-Jun-2025 04:03:29 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE' || SQL State: 42S22 || Input Username: superadmin@reaktor.system
+[04-Jun-2025 04:13:13 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE' || SQL State: 42S22 || Input Username: superadmin@reaktor.system
+[04-Jun-2025 04:47:16 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel lisensi_pelatih. Pesan: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_cabor' in 'WHERE'
+[04-Jun-2025 04:47:16 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel sertifikasi_wasit. Pesan: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_cabor' in 'WHERE'
+[04-Jun-2025 04:47:16 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel prestasi. Pesan: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u258794476_dbreaktorsys.prestasi' doesn't exist
+[04-Jun-2025 05:15:05 Asia/Jakarta] Proses Hapus Pengguna - DB Execute Error (Blok Utama Transaksi): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_pelatih' in 'SELECT' untuk NIK: 3333333333333333
+[04-Jun-2025 05:15:18 Asia/Jakarta] Proses Hapus Pengguna - DB Execute Error (Blok Utama Transaksi): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_pelatih' in 'SELECT' untuk NIK: 3333333333333333
+[04-Jun-2025 05:25:04 Asia/Jakarta] Proses Hapus Pengguna - DB Execute Error (Blok Utama Transaksi): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_pelatih' in 'SELECT' untuk NIK: 3333333333333333
+[04-Jun-2025 05:45:19 Asia/Jakarta] Error Daftar Wasit: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'w.nomor_lisensi' in 'SELECT'
+[04-Jun-2025 05:45:21 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 06:27:03 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 06:37:29 Asia/Jakarta] Proses Edit Pengguna - DB Execute Update Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'updated_by_nik' in 'SET'
+[04-Jun-2025 06:37:49 Asia/Jakarta] Proses Edit Pengguna - DB Execute Update Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'updated_by_nik' in 'SET'
+[04-Jun-2025 06:39:46 Asia/Jakarta] Proses Hapus Pengguna - DB Execute Error (Blok Utama Transaksi): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_pelatih' in 'SELECT' untuk NIK: 7777777777777777
+[04-Jun-2025 06:43:27 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE' || SQL State: 42S22 || Input Username: 2222222222222222
+[04-Jun-2025 06:43:41 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 06:43:42 Asia/Jakarta] PDOError Daftar Lisensi Pelatih: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'lp.id_cabor' in 'WHERE'
+[04-Jun-2025 06:43:47 Asia/Jakarta] PDOError Daftar Lisensi Pelatih: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'lp.id_cabor' in 'WHERE'
+[04-Jun-2025 06:44:36 Asia/Jakarta] Error Daftar Prestasi: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'WHERE'
+[04-Jun-2025 06:44:39 Asia/Jakarta] Error Daftar Prestasi: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'WHERE'
+[04-Jun-2025 06:44:42 Asia/Jakarta] Error Daftar Prestasi: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'WHERE'
+[04-Jun-2025 06:44:43 Asia/Jakarta] PDOError Daftar Lisensi Pelatih: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'lp.id_cabor' in 'WHERE'
+[04-Jun-2025 06:44:48 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 06:57:48 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE' || SQL State: 42S22 || Input Username: 2222222222222222
+[04-Jun-2025 07:20:06 Asia/Jakarta] Proses Hapus Pengguna - DB Execute Error (Blok Utama Transaksi): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_pelatih' in 'SELECT' untuk NIK: 8888888888888888
+[04-Jun-2025 07:23:05 Asia/Jakarta] Proses Hapus Pengguna - DB Execute Error (Blok Utama Transaksi): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_pelatih' in 'SELECT' untuk NIK: 8888888888888888
+[04-Jun-2025 07:24:08 Asia/Jakarta] Proses Approve/Suspend Pengguna Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'updated_by_nik' in 'SET' | NIK: 5555555555555555 | Aksi: approve
+[04-Jun-2025 07:30:18 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE' || SQL State: 42S22 || Input Username: 2222222222222222
+[04-Jun-2025 08:00:35 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE' || SQL State: 42S22 || Input Username: 2222222222222222
+[04-Jun-2025 08:00:39 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE' || SQL State: 42S22 || Input Username: 2222222222222222
+[04-Jun-2025 08:01:20 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE' || SQL State: 42S22 || Input Username: 2222222222222222
+[04-Jun-2025 08:01:32 Asia/Jakarta] Error Daftar Prestasi: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'WHERE'
+[04-Jun-2025 08:46:20 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE' || SQL State: 42S22 || Input Username: superadmin@reaktor.system
+[04-Jun-2025 08:47:20 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE' || SQL State: 42S22 || Input Username: 4444444444444444
+[04-Jun-2025 08:47:40 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 09:32:27 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE' || SQL State: 42S22 || Input Username: superadmin@reaktor.system
+[04-Jun-2025 11:06:38 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel lisensi_pelatih. Pesan: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_cabor' in 'WHERE'
+[04-Jun-2025 11:06:38 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel sertifikasi_wasit. Pesan: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_cabor' in 'WHERE'
+[04-Jun-2025 11:06:38 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel prestasi. Pesan: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u258794476_dbreaktorsys.prestasi' doesn't exist
+[04-Jun-2025 11:07:25 Asia/Jakarta] AUDIT_LOG_PDO_ERROR: Gagal mencatat audit. Pesan: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_nik' cannot be null | Input: user_nik=, aksi=TAMBAH_CABOR, tabel=cabang_olahraga, id_data=13
+[04-Jun-2025 11:29:38 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel lisensi_pelatih. Pesan: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_cabor' in 'WHERE'
+[04-Jun-2025 11:29:38 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel sertifikasi_wasit. Pesan: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_cabor' in 'WHERE'
+[04-Jun-2025 11:29:38 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel prestasi. Pesan: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u258794476_dbreaktorsys.prestasi' doesn't exist
+[04-Jun-2025 11:29:55 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 11:57:23 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel lisensi_pelatih. Pesan: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_cabor' in 'WHERE'
+[04-Jun-2025 11:57:23 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel sertifikasi_wasit. Pesan: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_cabor' in 'WHERE'
+[04-Jun-2025 11:57:23 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel prestasi. Pesan: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u258794476_dbreaktorsys.prestasi' doesn't exist
+[04-Jun-2025 11:57:25 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel lisensi_pelatih. Pesan: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_cabor' in 'WHERE'
+[04-Jun-2025 11:57:25 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel sertifikasi_wasit. Pesan: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_cabor' in 'WHERE'
+[04-Jun-2025 11:57:25 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel prestasi. Pesan: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u258794476_dbreaktorsys.prestasi' doesn't exist
+[04-Jun-2025 12:00:28 Asia/Jakarta] PROSES_TAMBAH_CABOR_VALIDASI_NIK_LINTAS_ERROR: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:00:28 Asia/Jakarta] PROSES_TAMBAH_CABOR_VALIDASI_NIK_LINTAS_ERROR: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:00:28 Asia/Jakarta] PROSES_TAMBAH_CABOR_VALIDASI_NIK_LINTAS_ERROR: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:04:32 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE' || SQL State: 42S22 || Input Username: 2222222222222222
+[04-Jun-2025 12:06:24 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel lisensi_pelatih. Pesan: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_cabor' in 'WHERE'
+[04-Jun-2025 12:06:24 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel sertifikasi_wasit. Pesan: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_cabor' in 'WHERE'
+[04-Jun-2025 12:06:24 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel prestasi. Pesan: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u258794476_dbreaktorsys.prestasi' doesn't exist
+[04-Jun-2025 12:08:36 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 12:08:51 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 12:08:52 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 12:08:52 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 12:08:56 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 12:08:57 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 12:08:57 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 12:08:57 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 12:08:58 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 12:08:58 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 12:08:58 Asia/Jakarta] Error Daftar Atlet: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.status_pendaftaran' in 'SELECT'
+[04-Jun-2025 12:14:14 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel lisensi_pelatih. Pesan: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_cabor' in 'WHERE'
+[04-Jun-2025 12:14:14 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel sertifikasi_wasit. Pesan: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_cabor' in 'WHERE'
+[04-Jun-2025 12:14:14 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel prestasi. Pesan: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u258794476_dbreaktorsys.prestasi' doesn't exist
+[04-Jun-2025 12:36:14 Asia/Jakarta] PROSES_TAMBAH_CABOR_VALIDASI_NIK_LINTAS_ERROR: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:36:14 Asia/Jakarta] PROSES_TAMBAH_CABOR_VALIDASI_NIK_LINTAS_ERROR: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:36:14 Asia/Jakarta] PROSES_TAMBAH_CABOR_VALIDASI_NIK_LINTAS_ERROR: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:36:28 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel lisensi_pelatih. Pesan: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_cabor' in 'WHERE'
+[04-Jun-2025 12:36:28 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel sertifikasi_wasit. Pesan: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_cabor' in 'WHERE'
+[04-Jun-2025 12:36:28 Asia/Jakarta] HAPUS_CABOR_CEK_RELASI_ERROR: Gagal cek relasi untuk tabel prestasi. Pesan: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u258794476_dbreaktorsys.prestasi' doesn't exist
+[04-Jun-2025 12:42:30 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:30 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:34 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:34 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:34 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:34 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:45 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:45 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:45 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:45 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:45 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:45 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:47 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:47 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:47 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:47 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:47 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:47 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:49 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:49 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:49 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:49 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:49 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:42:49 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:43:00 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:43:00 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor Error: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:45:21 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 2222222222222222 | ID Cabor Editing: 
+[04-Jun-2025 12:45:21 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 2222222222222222 | ID Cabor Editing: 
+[04-Jun-2025 12:45:31 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 2222222222222222 | ID Cabor Editing: 
+[04-Jun-2025 12:45:31 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:31 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:31 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 2222222222222222 | ID Cabor Editing: 
+[04-Jun-2025 12:45:41 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:41 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:41 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:42 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:42 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:42 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:44 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:44 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:44 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:44 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:44 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:44 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:44 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:44 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:44 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:45 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:45 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:45 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:50 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:50 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:50 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:53 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:53 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 4444444444444444 | ID Cabor Editing: 
+[04-Jun-2025 12:45:53 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 2222222222222222 | ID Cabor Editing: 
+[04-Jun-2025 12:45:53 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 2222222222222222 | ID Cabor Editing: 
+[04-Jun-2025 12:45:55 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 2222222222222222 | ID Cabor Editing: 
+[04-Jun-2025 12:45:55 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 2222222222222222 | ID Cabor Editing: 
+[04-Jun-2025 12:45:55 Asia/Jakarta] AJAX Cek NIK Pengurus Cabor DB Error: SQLSTATE[HY093]: Invalid parameter number | NIK: 2222222222222222 | ID Cabor Editing: 
+[04-Jun-2025 12:59:45 Asia/Jakarta] PROSES_TAMBAH_CABOR_VALIDASI_NIK_LINTAS_ERROR: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:59:45 Asia/Jakarta] PROSES_TAMBAH_CABOR_VALIDASI_NIK_LINTAS_ERROR: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 12:59:45 Asia/Jakarta] PROSES_TAMBAH_CABOR_VALIDASI_NIK_LINTAS_ERROR: SQLSTATE[HY093]: Invalid parameter number
+[04-Jun-2025 13:00:33 Asia/Jakarta] PROSES_LOGIN_FATAL_ERROR (PDOException): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status_pendaftaran' in 'WHERE' || SQL State: 42S22 || Input Username: 2222222222222222
